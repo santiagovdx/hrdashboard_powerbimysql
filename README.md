@@ -1,4 +1,4 @@
-# MySQL & Power BI Project: HR Dashboard | See full DASHBOARD here: [App Power BI Link]([https://app.powerbi.com/reportEmbed?reportId=a2dbd107-8117-4ecd-9c45-aa313c6d0d5f&autoAuth=true&ctid=616855e8-4a81-40b0-9bb9-10afe4e00966])
+# MySQL & Power BI Project: HR Dashboard | See full DASHBOARD here: [App Power BI Link](https://app.powerbi.com/reportEmbed?reportId=a2dbd107-8117-4ecd-9c45-aa313c6d0d5f&autoAuth=true&ctid=616855e8-4a81-40b0-9bb9-10afe4e00966)
 
 ## About the project
 This dashboard is meant to create visibility for a made up Chocolate retail company called Chocolate Awesome around its transaction data: revenue, cost, quantity sold, etc. With it the manager can have visibility over the companies performance across all the countries they ship to, the products they sell, the people that work in the company and generaly the status of the company across any given point in time.
