@@ -20,13 +20,16 @@ This dashboard is meant to create visibility for a made up Chocolate retail comp
 - Field paramaters
 
 ## Steps
-- Load all data tables from the xlsx file into Power Query using the xlsx connector
-- Perform data transformations to the data to have it ready for the modeling phase
+- Create a database in MySQL
+- Load all data from the csv file into MySQL using the import wizard
+- Perform data cleaning transformations and exploration
+- Design the database by breaking down the table into tables
+- Build the relationship infraestructure across the tables
+- Connect to the database with the Power Bi MySQL connector
 - Create relationships in the model view
 - Build DAX measures to feed the data objects
 - Design the dashboards layout to have a blueprint
 - Create the dashboard
-- Add more elements like: buttons, bookmarks, slicers, etc
 - Publish the dashboard in Power BI Service
 
 ![Portfolio Dashboard](dashboard.png)
